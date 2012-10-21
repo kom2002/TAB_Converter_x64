@@ -1,0 +1,123 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clientTreeViewDll", "Interface\exploreTreeViewDll\clientTreeViewDll.vbproj", "{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clientPrepareUI", "Interface\clientPrepareUI\clientPrepareUI.vbproj", "{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Converter", "Converter\Converter.vcproj", "{2D5F8B1B-46C3-467B-A065-AED4320B38DD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC} = {35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06} = {B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6} = {8B5DCAB5-827B-47DF-8B06-3804B7482DE6}
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24} = {57F26BC5-D2CF-48AA-A669-769A653E9E24}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmad", "Engine\libmad\msvc++\libmad.vcproj", "{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsamplerate", "Engine\libsamplerate\SrcDll.vcproj", "{57F26BC5-D2CF-48AA-A669-769A653E9E24}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsndfile", "Engine\libsndfile\libsndfile.vcproj", "{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "madlldlib", "Engine\madlldlib\madlldlib-1.0b7.vcproj", "{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6} = {8B5DCAB5-827B-47DF-8B06-3804B7482DE6}
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TabConversionSetup", "TabConversionSetup\TabConversionSetup.vdproj", "{9A5DB3E7-3458-4CCB-960F-1111E911A981}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Release - dll = Release - dll
+		Release - dll (fast) = Release - dll (fast)
+		Release (fast) = Release (fast)
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Debug.ActiveCfg = Debug|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Debug.Build.0 = Debug|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release.ActiveCfg = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release.Build.0 = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release - dll.ActiveCfg = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release - dll.Build.0 = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release - dll (fast).ActiveCfg = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release - dll (fast).Build.0 = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release (fast).ActiveCfg = Release|.NET
+		{CC9EAF98-42B9-47F4-9D99-4847E8A0B967}.Release (fast).Build.0 = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Debug.ActiveCfg = Debug|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Debug.Build.0 = Debug|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release.ActiveCfg = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release.Build.0 = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release - dll.ActiveCfg = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release - dll.Build.0 = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release - dll (fast).ActiveCfg = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release - dll (fast).Build.0 = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release (fast).ActiveCfg = Release|.NET
+		{FF13F58F-119E-4C1A-B777-1F4587E1BE5F}.Release (fast).Build.0 = Release|.NET
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Debug.ActiveCfg = Debug|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Debug.Build.0 = Debug|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release.ActiveCfg = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release.Build.0 = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release - dll.ActiveCfg = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release - dll.Build.0 = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release - dll (fast).ActiveCfg = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release - dll (fast).Build.0 = Release|Win32
+		{2D5F8B1B-46C3-467B-A065-AED4320B38DD}.Release (fast).ActiveCfg = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Debug.ActiveCfg = Debug|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Debug.Build.0 = Debug|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release.ActiveCfg = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release.Build.0 = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release - dll.ActiveCfg = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release - dll.Build.0 = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release - dll (fast).ActiveCfg = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release - dll (fast).Build.0 = Release|Win32
+		{8B5DCAB5-827B-47DF-8B06-3804B7482DE6}.Release (fast).ActiveCfg = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Debug.ActiveCfg = Debug|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Debug.Build.0 = Debug|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release.ActiveCfg = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release.Build.0 = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release - dll.ActiveCfg = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release - dll.Build.0 = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release - dll (fast).ActiveCfg = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release - dll (fast).Build.0 = Release|Win32
+		{57F26BC5-D2CF-48AA-A669-769A653E9E24}.Release (fast).ActiveCfg = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Debug.ActiveCfg = Debug|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Debug.Build.0 = Debug|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release.ActiveCfg = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release.Build.0 = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release - dll.ActiveCfg = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release - dll.Build.0 = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release - dll (fast).ActiveCfg = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release - dll (fast).Build.0 = Release|Win32
+		{B79A4446-ABE3-4F07-BFEA-4951FFDB6C06}.Release (fast).ActiveCfg = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Debug.ActiveCfg = Debug|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Debug.Build.0 = Debug|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release.ActiveCfg = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release.Build.0 = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release - dll.ActiveCfg = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release - dll.Build.0 = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release - dll (fast).ActiveCfg = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release - dll (fast).Build.0 = Release|Win32
+		{35C4C303-C986-4C3D-A7D1-4BD4D9EAF5AC}.Release (fast).ActiveCfg = Release|Win32
+		{9A5DB3E7-3458-4CCB-960F-1111E911A981}.Debug.ActiveCfg = Debug
+		{9A5DB3E7-3458-4CCB-960F-1111E911A981}.Release.ActiveCfg = Release
+		{9A5DB3E7-3458-4CCB-960F-1111E911A981}.Release - dll.ActiveCfg = Release
+		{9A5DB3E7-3458-4CCB-960F-1111E911A981}.Release - dll (fast).ActiveCfg = Release
+		{9A5DB3E7-3458-4CCB-960F-1111E911A981}.Release (fast).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

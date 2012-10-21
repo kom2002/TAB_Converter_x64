@@ -1,0 +1,41 @@
+﻿Build started 20/7/2553 7:37:10.
+     1>Project "C:\Users\Administrator\Desktop\Converter\Engine\libmad\msvc++\libmad.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\libmad.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\libmad.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /ZI /nologo /W1 /WX- /Od /Oy- /D FPM_DEFAULT /D _LIB /D HAVE_CONFIG_H /D ASO_ZEROCHECK /D WIN32 /D _DEBUG /D DEBUG /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\bit.c ..\decoder.c ..\fixed.c ..\frame.c ..\huffman.c ..\layer12.c ..\layer3.c ..\stream.c ..\synth.c ..\timer.c ..\version.c
+         bit.c
+         decoder.c
+         fixed.c
+         frame.c
+         huffman.c
+         layer12.c
+         layer3.c
+         stream.c
+         synth.c
+         timer.c
+         version.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Debug\libmad.lib" /NOLOGO .\Debug\bit.obj
+         .\Debug\decoder.obj
+         .\Debug\fixed.obj
+         .\Debug\frame.obj
+         .\Debug\huffman.obj
+         .\Debug\layer12.obj
+         .\Debug\layer3.obj
+         .\Debug\stream.obj
+         .\Debug\synth.obj
+         .\Debug\timer.obj
+         .\Debug\version.obj
+         libmad.vcxproj -> C:\Users\Administrator\Desktop\Converter\Engine\libmad\msvc++\Debug\libmad.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\libmad.unsuccessfulbuild".
+         Touching "Debug\libmad.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\Converter\Engine\libmad\msvc++\libmad.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47

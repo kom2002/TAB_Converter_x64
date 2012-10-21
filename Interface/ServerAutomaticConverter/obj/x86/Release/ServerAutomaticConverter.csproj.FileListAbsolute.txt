@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\bin\Release\ServerAutomaticConverter.exe
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\bin\Release\ServerAutomaticConverter.pdb
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ServerAutomaticConverter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ServerAutomaticConverter.exe
+C:\Users\Administrator\Desktop\Converter\Interface\ServerAutomaticConverter\obj\x86\Release\ServerAutomaticConverter.pdb

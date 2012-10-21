@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="TxtNccName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 20</value>
+  </data>
+  <data name="Panel34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 24</value>
+  </data>
+  <data name="Panel35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>444, 0</value>
+  </data>
+  <data name="Panel33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 24</value>
+  </data>
+  <data name="Panel26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 32</value>
+  </data>
+  <data name="Panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 32</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Label01.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button01.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAIFJREFUOE+dk4EK
+        wCAIROvP/TT/bEOXcHNqsyBE6p6X2BzPulbshqni02WFVc/MrU1E4lqdp4B1IQSXAC+U3DsMAVVFD/kA
+        KrFVR0gIkIuRXbRv5ymggphLiWkPIrv4vNTBTojnqQMPwX74Jm8HCd/7ew464/xyIMnJxl9sH6Mbxw0j
+        dVOkxAvztwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button01.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 32</value>
+  </data>
+  <data name="TxtDestFolder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 20</value>
+  </data>
+  <data name="Panel20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 24</value>
+  </data>
+  <data name="Panel19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>444, 0</value>
+  </data>
+  <data name="Panel17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 24</value>
+  </data>
+  <data name="Panel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 32</value>
+  </data>
+  <data name="Label02.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button02.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGNJREFUOE9jYKAW
+        aGho+I+OiTYbpPHAgQP///9nQKFB4gQNwaUZZhg2l6EYDOKQCqAGQFyHMADV+ejeQeZjNQBbGOAyZNQF
+        B8AJDhj+VIwFXIkFnzjcBdCkCnMSqTTBlE57BQAHeeYQb3jOvQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button02.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Panel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 32</value>
+  </data>
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 16</value>
+  </data>
+  <data name="Button04.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFRJREFUOE9jYBjU
+        oKGh4T/QgSBMOoBpPnDgAOmGINkM1kySIeiaoV4gzhBcmokyhJBmmCFINGrAggyAYXTFFIfBMDAAZ8Bh
+        S5/IgYkWsKQnZ7roAAAOVYMsyzMiYwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button04.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button03.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFBJREFUOE9jYBis
+        4D/QYdgwYfc2NDRgaDxw4ABMbNQAfCHQ0IA11HHFBkgcFYBCH1sMIEcnwdjAZwhBzTD3YDOEaM3YDCFZ
+        Mw6XEE6BA6YCAGRWg2kfnctjAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="Button03.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button05.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAHtJREFUOE+dk1EO
+        wCAIQz06R+NmbpDVTARjJeFH0ycFbG0f/b22vAoXq+oVpFsAwEJcjGAhk5iFpOJopbJzJP4msjQWXV4g
+        0b+9jgr+lfghDirfIrKdygSJL5sYCRvZZg1IVmoAlJs5QZKmHa11CmH/RAahP9QYL61kBA8FiUD4x/8u
+        NwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button05.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button05.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 0</value>
+  </data>
+  <data name="Button06.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAKZJREFUOE+9k0sO
+        wCAIRL3/qbxZW5DhK6bd1MRFU+fByDjGD+t6atB+vfxhFtM6QYLAHTYxI3oI6HQER6v4AFG61OnFDYQr
+        k8c5J2/45ra1J+CrHRYBAtAWsqZhUJlOqIMOSiduGumirUl0YuJVEYI8IR8MteHtZGtyHe1IFWIVQ4hU
+        L6HapjPkAFYgyN67bOsoU6VjGjNM0yk//Pfnx0WMlSjZ/mHdGNJ6NISXbxsAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button06.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button06.Location" type="System.Drawing.Point, System.Drawing">
+    <value>500, 0</value>
+  </data>
+  <data name="Panel14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 32</value>
+  </data>
+  <data name="Panel16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 32</value>
+  </data>
+  <data name="DataGrid1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 469</value>
+  </data>
+  <data name="Panel10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 469</value>
+  </data>
+  <data name="Label04.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label03.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Panel11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 469</value>
+  </data>
+  <data name="Button07.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFRJREFUOE9jYBjU
+        oKGh4T/QgSBMOoBpPnDgAOmGINkM1kySIeiaoV4gzhBcmokyhJBmmCFINGrAggyAYXTFFIfBMDAAZ8Bh
+        S5/IgYkWsKQnZ7roAAAOVYMsyzMiYwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button07.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button07.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 80</value>
+  </data>
+  <data name="Button07.Text" xml:space="preserve">
+    <value>Move &amp;Up</value>
+  </data>
+  <data name="Button08.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFBJREFUOE9jYBis
+        4D/QYdgwYfc2NDRgaDxw4ABMbNQAfCHQ0IA11HHFBkgcFYBCH1sMIEcnwdjAZwhBzTD3YDOEaM3YDCFZ
+        Mw6XEE6BA6YCAGRWg2kfnctjAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="Button08.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button08.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 112</value>
+  </data>
+  <data name="Button08.Text" xml:space="preserve">
+    <value>Move &amp;Down</value>
+  </data>
+  <data name="Button09.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAK5JREFUOE+NkwEO
+        hDAIBPXnfVp/5nUb527B4rUJUQwMS5HzSKe1dvmn4Z85ZukrUabDk/cMDQBPJGEEXL33aRziHtWLalMF
+        kFeQB1JNCqjoEAcpZqrJlXK1SsUXsIIcbdCH5YOq+1J/03IVSqQqIPmeXAJIAFIBgvzcgivw/kv5zJU2
+        vLoA+NsAknI7fwF3X+ECVy08+l8shsYT/kKfwg4AZgDZLoRt3dnUCTILOR+Bv8ef97aW8AAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="Button09.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button09.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 144</value>
+  </data>
+  <data name="Button09.Text" xml:space="preserve">
+    <value>&amp;Remove</value>
+  </data>
+  <data name="Panel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 469</value>
+  </data>
+  <data name="Panel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 469</value>
+  </data>
+  <data name="LblFileTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblFileTime.Location" type="System.Drawing.Point, System.Drawing">
+    <value>488, 32</value>
+  </data>
+  <data name="LblFileTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 16</value>
+  </data>
+  <data name="LblDtbTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblDtbTime.Location" type="System.Drawing.Point, System.Drawing">
+    <value>488, 8</value>
+  </data>
+  <data name="LblDtbTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 16</value>
+  </data>
+  <data name="LblFileStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblFileStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 32</value>
+  </data>
+  <data name="LblFileStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 16</value>
+  </data>
+  <data name="LblDtbStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblDtbStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 8</value>
+  </data>
+  <data name="LblDtbStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 16</value>
+  </data>
+  <data name="Label07.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomLeft</value>
+  </data>
+  <data name="Label07.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label07.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 8</value>
+  </data>
+  <data name="Label07.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 16</value>
+  </data>
+  <data name="Label07.Text" xml:space="preserve">
+    <value>Total Time:</value>
+  </data>
+  <data name="Label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 32</value>
+  </data>
+  <data name="Label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 16</value>
+  </data>
+  <data name="Label10.Text" xml:space="preserve">
+    <value>This DTB Time:</value>
+  </data>
+  <data name="Label09.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label09.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 32</value>
+  </data>
+  <data name="Label06.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label06.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 8</value>
+  </data>
+  <data name="LblDtbName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblDtbName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>288, 16</value>
+  </data>
+  <data name="LblFileName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblFileName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>288, 16</value>
+  </data>
+  <data name="Label05.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label08.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Panel22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 21</value>
+  </data>
+  <data name="Panel22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 56</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Panel22.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="Label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblCurrDtbCompleted.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblCurrDtbCompleted.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 8</value>
+  </data>
+  <data name="Panel29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 77</value>
+  </data>
+  <data name="Panel29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 24</value>
+  </data>
+  <data name="Panel29.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="PgbCurrDtbCompleted.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PgbCurrDtbCompleted.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 16</value>
+  </data>
+  <data name="Panel30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 101</value>
+  </data>
+  <data name="Panel30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 24</value>
+  </data>
+  <data name="Panel30.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="Label12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblAllDtbCompleted.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LblAllDtbCompleted.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 8</value>
+  </data>
+  <data name="Panel31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 125</value>
+  </data>
+  <data name="Panel31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 24</value>
+  </data>
+  <data name="Panel31.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="PgbAllDtbCompleted.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PgbAllDtbCompleted.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 16</value>
+  </data>
+  <data name="Panel32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 149</value>
+  </data>
+  <data name="Panel32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 24</value>
+  </data>
+  <data name="Panel32.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="TextBox1.MaxLength" type="System.Int32, mscorlib">
+    <value>99999</value>
+  </data>
+  <data name="TextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 88</value>
+  </data>
+  <data name="TextBox1.WordWrap" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 264</value>
+  </data>
+  <data name="Button6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAALVJREFUOE+tkwsO
+        xCAIRO3NOZo3Yx0+IhW722RNGovKYxC8mg0iYv9f1q77WmnDuffOzC3NFXQDnJwdhv3qmyBsvh1EDelq
+        ygFQ+R4NB3QvpwW7BLgz1DSTdIKUAFcynQcE0ApyBGzOUCOp3KtT3MGqQCInBbAC8ngHuzPKqCqitF+q
+        YCWSKug9IBWekE2BR6jmUWhJZ4UkgHWUN8ZhzpDZRD89lOjZpOQPEGvldyrkdLyDYXwA5+3OCYZ3gGcA
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAIJJREFUOE+1k1EO
+        wCAIQz06R+NmbjWDgEGBjzVZZsxo8THH+FHz9bZPK2ru+sxKJquWmTUda6hqEn3cM7DpwsHspcdYrUJE
+        ZJNLR1B2dgKyWWGgiQJtf9/6j9p1/0I2iTS9bBCQV7A3Dg5gxABTyUAep1ApFsDuGqCwU6wm201E66Ee
+        7Fr+1ItF5NoAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button5.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Button5.Text" xml:space="preserve">
+    <value>Set &amp;Password</value>
+  </data>
+  <data name="Button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFBJREFUOE9jYKAS
+        +A80hxwMtv4/BJBOQy0FaSRdM9hKiKshmkn1AsjSURdQOwzIiUrqxgJSvILjF91FyOkElnJhLgAnJiSM
+        zscnR6WsSIkxAGh+4C6nTWgkAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="Button4.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Button4.Text" xml:space="preserve">
+    <value>&amp;Get 9 Digits</value>
+  </data>
+  <data name="Button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAJhJREFUOE+dkwsO
+        wCAIQ/XmHs2bbanuJYi/MBJCdLSwIjl1e74YDbmB/xqFG77Wqi4G193OSynk9g4g0Ae5DMIVyZKARAEh
+        gUhnS3QkIBEQJGECBBbQk1w7AEyiATRtrhqoIknqwIu7nYKv7IVddNTHaP/XVrbC2bEOHazAugs/JCvU
+        CYwmw1OOgCcCFI5Gu8XTIvnF2pzTC5PhUUP67FfFAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="Button3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Button3.Text" xml:space="preserve">
+    <value>&amp;Edit catalog</value>
+  </data>
+  <data name="Button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFtJREFUOE+1UkEK
+        ACAIs5/7c9NAkkAzzJEXJTc2ByISVCALvCJGNF/klc/uAmE+4RH1KFC2kgc383QORPxMbfZcv74gK/U5
+        hayRboyWMUojvIPMMfUp+OpBlNQEGXyASUOpW2EAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Button2.Text" xml:space="preserve">
+    <value>&amp;Upload book</value>
+  </data>
+  <data name="Button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAHdJREFUOE/Nk2EK
+        wCAIhTv6jubNmrocz1GSbj8mCCX06dNs7SPrzKm4pu8Vg4QXIFsBEdkbABwsY8e56jXAeiGg4BwCsCcK
+        mcCWAO0HyHjeDRYDIOsNGHKs4VOAmwaU7SSN+F+nkPjOToKMSgIZx6+s+1D097t8AorMi0tKpumwAAAA
+        AElFTkSuQmCC
+</value>
+  </data>
+  <data name="Button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="Button1.Text" xml:space="preserve">
+    <value>Test eng&amp;ine</value>
+  </data>
+  <data name="Button15.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAKNJREFUOE+VkwEO
+        wCAIA93PeZo/cyKiiMDYEmNC7FGpe4r9NaeeLjcAuFZXjxp+tVZs4jY6xFoIQCALwMR1QHYkVyTGXQNk
+        YQHQrhRJiAS00g/OwrET4OysHZDYWn1IGQet4EBCQOwAsyUIxWJcoYzYcHkzIMjOVQ1xw6MUGDJ2zjkz
+        A+t5Xg6sKMOXyFfyHKgru//IjHGnkBUycb2Dv8IF+BK+MTpb49UVguoAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button15.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Button15.Text" xml:space="preserve">
+    <value>E&amp;xit program</value>
+  </data>
+  <data name="Panel24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 301</value>
+  </data>
+  <data name="Panel21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 264</value>
+  </data>
+  <data name="Button10.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAJlJREFUOE+VkgEO
+        wCAIA3k6T/NnTMhgFSFTEhLj5lEKREUIkWhW347u7gA8K2l+oWfMn6IrQMYYS76wM+X+2BUws2gCJJRN
+        kzaPrLL+nB4GRGYU0FC3AFCFnjE6yAbwRxngSrI/LQCrOyx5Y238AnC8FcAglYnYSvam3OQ8hVMPEIaz
+        N2U5uha6jbP551HebOmi4rZ61Vqs8QOtCEVNG7a3vwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button12.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAHFJREFUOE+lkwEK
+        gDAMA/f/V/Vn1chSqigktTAUXC9ZVtfSKrVt77sSdX4aQ34BLmWW66IrZ0RYxyhlOtjqUg6lzPBaiB6A
+        tgFwjnALjY0WoCdPmgUoC/sFzWOA28xh5p0/n/IvkZg/rImDL3V5Ei3AAfFnzU71WebOAAAAAElFTkSu
+        QmCC
+</value>
+  </data>
+  <data name="Button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 0</value>
+  </data>
+  <data name="Button13.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGpJREFUOE/tUwEO
+        ABAI9P9X9TNWHKcyHsBmqHTXRSl/qAJ1TFYDttO6KReCqhsAERHzeNBuGA6+q/bbeZWQJFBEQsv2Voo5
+        EOwR1Q7qRD9qgAQcfGAQnt5GDYhgBUZJp2Yi38an1v0fsBRowXrOC3PWKeMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>500, 0</value>
+  </data>
+  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 16</value>
+  </data>
+  <data name="Panel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>580, 32</value>
+  </data>
+  <data name="Panel28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 0</value>
+  </data>
+  <data name="Panel25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 269</value>
+  </data>
+  <data name="Panel25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>804, 32</value>
+  </data>
+  <data name="MenuItem22.Text" xml:space="preserve">
+    <value>&amp;Help</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>804, 565</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+</root>

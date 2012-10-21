@@ -1,0 +1,50 @@
+﻿Build started 23/7/2553 19:57:56.
+     1>Project "C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\madlldlib-1.0b7.vcxproj" on node 4 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Touching "..\..\Interface\clientPrepareUI\bin\madlldlib.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\..\Interface\clientPrepareUI\bin\madlldlib.dll" /INCREMENTAL /NOLOGO .\..\..\Converter\Debug\libmad.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /ManifestFile:"..\..\Interface\clientPrepareUI\bin\madlldlib.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug\madlldlib-1.0b7.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\..\Converter\Debug\madlldlib.lib" /MACHINE:X86 /DLL ..\..\Interface\clientPrepareUI\bin\madlldlib.dll.embed.manifest.res
+         ..\..\Interface\clientPrepareUI\bin\bstdfile.obj
+         ..\..\Interface\clientPrepareUI\bin\madlldlib.obj
+         C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\libmad.lib
+            Creating library .\..\..\Converter\Debug\madlldlib.lib and object .\..\..\Converter\Debug\madlldlib.exp
+     1>libmad.lib(bit.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(bit.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(frame.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(frame.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(huffman.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(huffman.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(layer12.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(layer12.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(layer3.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(layer3.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(stream.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(stream.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(synth.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(synth.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(timer.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(timer.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"..\..\Interface\clientPrepareUI\bin\madlldlib.dll.embed.manifest" /manifest ..\..\Interface\clientPrepareUI\bin\madlldlib.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"..\..\Interface\clientPrepareUI\bin\madlldlib.dll.embed.manifest.res" ..\..\Interface\clientPrepareUI\bin\madlldlib_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\..\Interface\clientPrepareUI\bin\madlldlib.dll" /INCREMENTAL /NOLOGO .\..\..\Converter\Debug\libmad.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /ManifestFile:"..\..\Interface\clientPrepareUI\bin\madlldlib.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug\madlldlib-1.0b7.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\..\Converter\Debug\madlldlib.lib" /MACHINE:X86 /DLL ..\..\Interface\clientPrepareUI\bin\madlldlib.dll.embed.manifest.res
+         ..\..\Interface\clientPrepareUI\bin\bstdfile.obj
+         ..\..\Interface\clientPrepareUI\bin\madlldlib.obj
+         C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\libmad.lib
+            Creating library .\..\..\Converter\Debug\madlldlib.lib and object .\..\..\Converter\Debug\madlldlib.exp
+     1>libmad.lib(bit.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(bit.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(frame.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(frame.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(huffman.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(huffman.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(layer12.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(layer12.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(layer3.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(layer3.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(stream.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(stream.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(synth.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(synth.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+     1>libmad.lib(timer.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'libmad.lib(timer.obj)' or at 'C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\Debug\vc70.pdb'; linking object as if no debug info
+         madlldlib-1.0b7.vcxproj -> C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\..\..\Interface\clientPrepareUI\bin\madlldlib.dll
+       FinalizeBuildStatus:
+         Deleting file "..\..\Interface\clientPrepareUI\bin\madlldlib.unsuccessfulbuild".
+         Touching "..\..\Interface\clientPrepareUI\bin\madlldlib.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\Converter\Engine\madlldlib\madlldlib-1.0b7.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51

@@ -1,0 +1,161 @@
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.exe
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.pdb
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\clientPrepareUI.exe
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\clientPrepareUI.pdb
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\clientPrepareUI.xml
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\th-TH\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\th\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\exploreTreeViewDll.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\exploreTreeViewDll.pdb
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\exploreTreeViewDll.xml
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\bin\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmAbout.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmBookUpload.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmChangeCatalog.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmGetNineDigit.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmOption.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmScanLibrary.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmSetPassword.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmTest.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmUpload.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th-TH.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th.resources
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\th-TH\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\th\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Convertor\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.xml
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe.config
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.pdb
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.xml
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\th-TH\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\th\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.pdb
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.xml
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmAbout.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmBookUpload.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmChangeCatalog.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmGetNineDigit.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmOption.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmScanLibrary.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmSetPassword.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmTest.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmUpload.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th-TH.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th.resources
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\th-TH\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\th\clientPrepareUI.resources.dll
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.exe
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.xml
+C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.pdb
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe.config
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.pdb
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.xml
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\th-TH\clientPrepareUI.resources.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\th\clientPrepareUI.resources.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.pdb
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.xml
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\bin\Interop.SpeechLib.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\Interop.SpeechLib.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.vbproj.ResolveComReference.cache
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmAbout.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmBookUpload.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmChangeCatalog.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmGetNineDigit.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmOption.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmScanLibrary.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmSetPassword.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmTest.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmUpload.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th-TH.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th.resources
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\ResGen.read.1.tlog
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\ResGen.write.1.tlog
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\th-TH\clientPrepareUI.resources.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\th\clientPrepareUI.resources.dll
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.exe
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.xml
+E:\Documents and Settings\Administrator\Desktop\Converter_20100904\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.pdb
+C:\TAB\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe.config
+C:\TAB\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.exe
+C:\TAB\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.pdb
+C:\TAB\Converter\Interface\clientPrepareUI\bin\clientPrepareUI.xml
+C:\TAB\Converter\Interface\clientPrepareUI\bin\th-TH\clientPrepareUI.resources.dll
+C:\TAB\Converter\Interface\clientPrepareUI\bin\th\clientPrepareUI.resources.dll
+C:\TAB\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.dll
+C:\TAB\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.pdb
+C:\TAB\Converter\Interface\clientPrepareUI\bin\exploreTreeViewDll.xml
+C:\TAB\Converter\Interface\clientPrepareUI\bin\Interop.SpeechLib.dll
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\ResolveAssemblyReference.cache
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\Interop.SpeechLib.dll
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.vbproj.ResolveComReference.cache
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmAbout.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmBookUpload.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmChangeCatalog.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmGetNineDigit.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmOption.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmScanLibrary.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmSetPassword.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmTest.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmUpload.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th-TH.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th.resources
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\th-TH\clientPrepareUI.resources.dll
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\th\clientPrepareUI.resources.dll
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.exe
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.xml
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.pdb
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\GenerateResource.read.1.tlog
+C:\TAB\Converter\Interface\clientPrepareUI\obj\Debug\GenerateResource.write.1.tlog
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\clientPrepareUI.exe.config
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\clientPrepareUI.exe
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\clientPrepareUI.pdb
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\clientPrepareUI.xml
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\th-TH\clientPrepareUI.resources.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\th\clientPrepareUI.resources.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\exploreTreeViewDll.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\exploreTreeViewDll.pdb
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\exploreTreeViewDll.xml
+C:\TAB\Converter_x64\Interface\clientPrepareUI\bin\Interop.SpeechLib.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\ResolveAssemblyReference.cache
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\Interop.SpeechLib.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.vbproj.ResolveComReference.cache
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmAbout.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmBookUpload.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmChangeCatalog.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmGetNineDigit.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmOption.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmScanLibrary.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmSetPassword.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmTest.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmUpload.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th-TH.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\TAB.Telephony.clientPrepareUI.FrmConvert.th.resources
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\GenerateResource.read.1.tlog
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\GenerateResource.write.1.tlog
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\th-TH\clientPrepareUI.resources.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\th\clientPrepareUI.resources.dll
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.exe
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.xml
+C:\TAB\Converter_x64\Interface\clientPrepareUI\obj\Debug\clientPrepareUI.pdb

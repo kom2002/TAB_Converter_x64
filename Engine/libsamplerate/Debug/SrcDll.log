@@ -1,0 +1,43 @@
+﻿Build started 20/7/2553 7:37:13.
+     1>Project "C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\SrcDll.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\libsamplerate.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\libsamplerate.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SRCDLL_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt samplerate.c src_linear.c src_sinc.c src_zoh.c
+         src_zoh.c
+         src_sinc.c
+         src_linear.c
+         samplerate.c
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\libsamplerate.dll.embed.manifest.res" Debug\libsamplerate_manifest.rc 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\Debug\libsamplerate.dll) does not match the Linker's OutputFile property value (C:\Users\Administrator\Desktop\Converter\Interface\clientPrepareUI\bin\libsamplerate.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\..\Interface\clientPrepareUI\bin\libsamplerate.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\\libsamplerate.def" /MANIFEST /ManifestFile:"Debug\libsamplerate.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Debug\SrcDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\..\Converter\Debug\libsamplerate.lib" /MACHINE:X86 /DLL Debug\libsamplerate.dll.embed.manifest.res
+         Debug\samplerate.obj
+         Debug\src_linear.obj
+         Debug\src_sinc.obj
+         Debug\src_zoh.obj
+            Creating library .\..\..\Converter\Debug\libsamplerate.lib and object .\..\..\Converter\Debug\libsamplerate.exp
+       Manifest:
+         Deleting file "Debug\libsamplerate.dll.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\libsamplerate.dll.embed.manifest" /manifest Debug\libsamplerate.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\libsamplerate.dll.embed.manifest.res" Debug\libsamplerate_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\..\Interface\clientPrepareUI\bin\libsamplerate.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\\libsamplerate.def" /MANIFEST /ManifestFile:"Debug\libsamplerate.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Debug\SrcDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\..\Converter\Debug\libsamplerate.lib" /MACHINE:X86 /DLL Debug\libsamplerate.dll.embed.manifest.res
+         Debug\samplerate.obj
+         Debug\src_linear.obj
+         Debug\src_sinc.obj
+         Debug\src_zoh.obj
+            Creating library .\..\..\Converter\Debug\libsamplerate.lib and object .\..\..\Converter\Debug\libsamplerate.exp
+         SrcDll.vcxproj -> C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\Debug\libsamplerate.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\libsamplerate.unsuccessfulbuild".
+         Touching "Debug\libsamplerate.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\SrcDll.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14

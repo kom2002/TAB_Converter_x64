@@ -1,0 +1,7 @@
+LIBRARY	Converter
+EXPORTS
+	Starter
+	CreateConverterDll
+	DestroyConverterDll
+	GetCpuSpeedConverterDll
+	StartConverterDll

@@ -1,0 +1,22 @@
+﻿Build started 23/7/2553 19:58:02.
+     1>Project "C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\SrcDll.vcxproj" on node 3 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "..\..\Interface\clientPrepareUI\bin\libsamplerate.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "..\..\Interface\clientPrepareUI\bin\libsamplerate.unsuccessfulbuild".
+         Touching "..\..\Interface\clientPrepareUI\bin\libsamplerate.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\Converter\Engine\libsamplerate\SrcDll.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
